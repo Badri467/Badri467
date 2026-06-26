@@ -113,7 +113,7 @@ I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GP
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <!-- After setting up the GitHub Action (see below), this will animate: -->
 

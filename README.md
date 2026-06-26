@@ -1,5 +1,5 @@
 <div align="center">
-#Badrinarayana
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Badrinarayana%20Kancharla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Backend+systems+%7C+REST+APIs+%7C+RAG+pipelines;Oracle+Intern+%E2%80%A2+Vasavi+College+%E2%80%A2+Hyderabad;400%2B+problems+on+LeetCode+%26+CodeChef+%F0%9F%92%AA;Love+to+code%2C+build+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)

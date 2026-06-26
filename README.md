@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Badrinarayana%20Kancharla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Systems%20Engineer&descAlignY=58&descSize=20)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+products+%F0%9F%A4%96;Backend+systems+%7C+REST+APIs+%7C+RAG+pipelines;Oracle+Intern+%E2%80%A2+Vasavi+College+%E2%80%A2+Hyderabad;400%2B+problems+on+LeetCode+%26+CodeChef+%F0%9F%92%AA;Love+to+code%2C+build+stuff+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-red-pi-22.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badri-narayana-kancharla)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Badri467/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Badri_Narayana/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Badri467)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badrinarayana467@gmail.com)
 
@@ -22,12 +22,12 @@
 
 I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GPA 9.55 / 10)** and an **Associate Software Engineer Intern at Oracle**, building AI agents, incident intelligence, and scalable backend systems.
 
-- 🔭 &nbsp; Currently at **Oracle** — building SMS retargeting services, REST APIs, and AI agents
-- 🧠 &nbsp; Interested in **RAG pipelines**, **LLM integrations**, and **computer vision**
-- 🏆 &nbsp; **400+** problems solved on LeetCode & CodeChef · CodeChef **2-Star**
-- 🎯 &nbsp; Competitive programmer — **3rd @ Codezee**, **5th @ Krithomedh**
-- 📚 &nbsp; Off the keyboard: manga, anime, and visual storytelling
-- 📍 &nbsp; Based in **Hyderabad, India**
+- 🔭 Currently at **Oracle** — building SMS retargeting services, REST APIs, and AI agents
+- 🧠 Interested in **RAG pipelines**, **LLM integrations**, and **computer vision**
+- 🏆 **400+** problems solved on LeetCode &amp; CodeChef · Rank **#246,090** globally
+- 🎯 Competitive programmer — **3rd @ Codezee**, **5th @ Krithomedh**
+- 📚 Off the keyboard: manga, anime, and visual storytelling
+- 📍 Based in **Hyderabad, India**
 
 ---
 
@@ -72,14 +72,35 @@ I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GP
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Badri467&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badri467&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Badri467&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badri467&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Badri467&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=Badri467&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+---
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Badri467?theme=dark&amp;font=source_code_pro&amp;ext=heatmap&amp;site=us" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🌍 **Global Rank** | #246,090 |
+| 🏅 **Badges** | 4 — 100 Days 2025 · 50 Days 2025 · 50 Days 2024 |
+| 💻 **Top Language** | C++ (325 problems) · Java (144 problems) |
+| 🧠 **Strongest Topic** | Dynamic Programming (72) · Array (210) · Hash Table (73) |
+
 </div>
 
 ---
@@ -87,7 +108,7 @@ I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GP
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Badri467&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Badri467&amp;theme=tokyonight&amp;no-frame=true&amp;column=6&amp;margin-w=10&amp;margin-h=10" />
 </div>
 
 ---
@@ -108,11 +129,12 @@ I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GP
 
 ## 🎖️ Achievements & Certifications
 
-- 🥉 &nbsp; **3rd Place** — Codezee coding competition
-- 🏅 &nbsp; **5th Place** — Krithomedh contest
-- 🌟 &nbsp; **Academic Excellence** — Merit certificates, 1st & 2nd year engineering
-- ☁️ &nbsp; **OCI AI Foundations Associate** — Oracle Cloud Infrastructure
-- 🤖 &nbsp; **AI & Cloud** — IBM SkillsBuild + Edunet Foundation
+- 🥉 **3rd Place** — Codezee coding competition
+- 🏅 **5th Place** — Krithomedh contest
+- 🌟 **Academic Excellence** — Merit certificates, 1st &amp; 2nd year engineering
+- ☁️ **OCI AI Foundations Associate** — Oracle Cloud Infrastructure
+- 🤖 **AI &amp; Cloud** — IBM SkillsBuild + Edunet Foundation
+- 🔥 **100 Days Badge 2025** — LeetCode (also 50 Days 2024 &amp; 2025)
 
 ---
 

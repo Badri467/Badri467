@@ -146,10 +146,10 @@ I enjoy building products that solve real-world problems—from AI-powered appli
 
 ## 🎖️ Achievements & Certifications
 
--🏅 **Gold Medal** – Information Technology
--🥈 **Oracle Internal Hackathon Runner-Up**
--🥉 **3rd Place** – Codezee Coding contest, conducted by VCE
--🏅 **5th Place** – Krithomedh Coding contest, conducted by VNR-VJET
+- 🏅 **Gold Medal** – Information Technology
+- 🥈 **Oracle Internal Hackathon Runner-Up**
+- 🥉 **3rd Place** – Codezee Coding contest, conducted by VCE
+- 🏅 **5th Place** – Krithomedh Coding contest, conducted by VNR-VJET
 - 🌟 **Academic Excellence** — Merit certificates, 1st &amp; 2nd year engineering
 - ☁️ **OCI AI Foundations Associate** — Oracle Cloud Infrastructure
 - 🤖 **AI &amp; Cloud** — IBM SkillsBuild + Edunet Foundation

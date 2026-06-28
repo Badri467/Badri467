@@ -20,32 +20,49 @@
 
 ## 👋 About Me
 
-I'm **Badri** — a final-year IT student at Vasavi College of Engineering **(GPA 9.55 / 10)** and an **Associate Software Engineer Intern at Oracle**, building AI agents, incident intelligence, and scalable backend systems.
+I'm **Badri**, a **Gold Medalist in Information Technology** from Vasavi College of Engineering and a former **Associate Software Engineer Intern at Oracle**.
 
-- 🔭 Currently at **Oracle** — building SMS retargeting services, REST APIs, and AI agents
-- 🧠 Interested in **RAG pipelines**, **LLM integrations**, and **computer vision**
-- 🏆 **400+** problems solved on LeetCode &amp; CodeChef · Rank **#246,090** globally
-- 🎯 Competitive programmer — **3rd @ Codezee**, **5th @ Krithomedh**
-- 📚 Off the keyboard: manga, anime, and visual storytelling
-- 📍 Based in **Hyderabad, India**
+I enjoy building products that solve real-world problems—from AI-powered applications and Chrome extensions to scalable backend systems and computer vision solutions. I'm particularly interested in backend engineering, AI agents, RAG pipelines, and developer tools.
 
+* 🏅 Gold Medalist – Information Technology
+* 💼 Former Associate Software Engineer Intern @ Oracle
+* 🚀 Published **HireLog** on the Chrome Web Store
+* 🧠 Passionate about AI, backend engineering, and open source
+* 💻 400+ problems solved across LeetCode & CodeChef
+* 📍 Hyderabad, India
+  
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 🎙️ [DubFlow](https://github.com/Badri467/DubFlow) ⭐ 19 | 🛠️ [IT Incident Summarizer](https://github.com/Badri467/IT_Incident_Summariser) |
-|---|---|
-| Multilingual YouTube dubbing pipeline supporting **32+ languages** with resilient transcript fallbacks and distributed audio processing. | Hybrid RAG pipeline for SRE teams that compresses noisy incident logs into summaries with adaptive online root-cause prediction. |
-| `React.js` `Node.js` `Express` `gTTS` `FFmpeg` | `React.js` `Flask` `RAG` `ML` `River` |
-
-| 🤖 Smart Offers AI Agent *(Oracle)* | 🛣️ [Pavement Damage Detection](https://github.com/Badri467/RoadDamage) |
-|---|---|
-| Behavior-aware e-commerce offers engine that maps customer signals and product context into explainable, personalized offer decisions. | Real-time CV pipeline with YOLOv8 + CBAM attention — improved **mAP@50 by 3.8%** for pothole and crack detection. |
-| `AI Agents` `Python` `REST APIs` `E-commerce` | `Python` `YOLOv8` `CBAM` `OpenCV` |
+| 🚀 Project                                                                                          | Description                                                                                                                                                                                  | Tech Stack                                                                       |
+| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **📌 [HireLog](https://github.com/Badri467/HireLog-Chrome-Extension-for-Job-Application-Tracking)** | Chrome Extension published on the Chrome Web Store that automatically tracks job applications with Google Sheets sync, Kanban board, timeline, duplicate detection, and follow-up reminders. | `JavaScript` `Chrome Extension` `Manifest V3` `Google OAuth` `Google Sheets API` |
+| **🎙️ [DubFlow](https://github.com/Badri467/DubFlow)**                                              | AI-powered multilingual YouTube dubbing platform supporting 32+ languages with transcript recovery, FFmpeg processing, and REST APIs.                                                        | `Next.js` `Node.js` `Express` `FFmpeg` `gTTS`                                    |
+| **🤖 [IT Incident Summariser](https://github.com/Badri467/IT_Incident_Summariser)**                 | Hybrid RAG system for summarizing production incidents and assisting SRE teams with intelligent root-cause analysis.                                                                         | `React` `Flask` `Python` `RAG`                                                   |
+| **🛣️ [Road Damage Detection](https://github.com/Badri467/RoadDamageDetection)**                    | YOLOv8 + CBAM based real-time pavement damage detection system for potholes and cracks with improved detection accuracy.                                                                     | `Python` `YOLOv8` `OpenCV` `Deep Learning`                                       |
+| **🖼️ [Image Recognition Chatbot](https://github.com/Badri467/Image-Recognition-Chatbot)**          | AI chatbot supporting image understanding, voice conversations, collaborative sessions, and multiple LLM providers.                                                                          | `Flask` `Gemini` `Groq` `MongoDB` `Socket.IO`                                    |
+| **🎓 [Placement Hub](https://github.com/Badri467/Placement-Hub)**                                   | Full-stack placement management portal for students with authentication and job management features.                                                                                         | `JavaScript` `Node.js` `MongoDB`                                                 |
+| **🌱 [Crop Recommendation](https://github.com/Badri467/Crop-Recommendation)**                       | Machine learning application recommending suitable crops based on soil and environmental parameters.                                                                                         | `Python` `Machine Learning` `HTML`                                               |
+| **🌐 [Portfolio](https://github.com/Badri467/Portfolio)**                                           | Personal developer portfolio showcasing projects, achievements, technical skills, and experience.                                                                                            | `HTML` `CSS` `JavaScript`                                                        |
 
 </div>
+
+---
+
+## 🧪 Other Projects
+
+* 📅 AI-Based Timetable Generator
+* ⚙️ Predictive Maintenance of Industrial Machinery
+* 🖼️ Image Caption Generator
+* 🌐 Acumen Website
+* ⚡ Acumen Backend
+* 🎯 Acumen IT
+* ⏰ Digital Clock
+* 💻 Code Editor
+* 📄 CV Website
 
 ---
 
